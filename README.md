@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Caio Hoch 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" />
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450" height="320"  />
 
 
 ## I'm a Student, Developer and Designer!!
@@ -46,9 +46,9 @@
 
 <div align="center">
 
-  <img height="210em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HoCH-DS&show_icons=true&hide_border=false" />
+  <img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HoCH-DS&show_icons=true&hide_border=false" />
 
-  <img height="210em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoCH-DS&layout=compact" />
+  <img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoCH-DS&layout=compact" />
 
 </div>
 
