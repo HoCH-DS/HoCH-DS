@@ -1,24 +1,32 @@
-### Hi 👋, I'm Caio Hoch 
+### Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25" />, I'm Caio Hoch 
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450" height="320"  />
-
 
 ## I'm a Student, Developer and Designer!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HoCH-DS&color=blue" alt="Profile views" /> </p>
 
-- 🔭 I am currently taking the Systems Development course
+- 🔭 I am currently graduated in Systems Development Technician by the institution SENAI Ricardo Lerner.
 
-- 🌱 I am currently learning React Native and IA900
+- 🌱 I am currently learning TypeScript, Node.js and Angular
 
-- 📫 How to reach me: 📩caio_hoch@outlook.com
+- 📫 How to reach me:
 
 <br>
+<a width="450" href="caio_hoch@outlook.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="blank" alt="Oulook" title="Outlook" />
+</a>
+<a href="https://www.linkedin.com/in/caio-hoch-b80152245">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/caio_hoch/">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"  alt="Instagram" title="Instagram" /></a>
 <br>
-<br>
+<img align="left" alt="GIF" src="https://wms-sobre.netlify.app/img/Caio.gif" />
 <br>
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,16 +47,18 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 <br />
 <br />
 <br />
 <br />
+
 
 <div align="center">
+<img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HoCH-DS&theme=nightowl&count_private=1" />
 
-  <img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HoCH-DS&show_icons=true&hide_border=false" />
+<img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoCH-DS&layout=compact&theme=nightowl" />
 
-  <img height="180em" alt="Caio's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoCH-DS&layout=compact" />
-
+<img height="244em" alt="Caio's GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoCH-DS&theme=github_dark">
 </div>
 
