@@ -13,13 +13,13 @@
 - 📫 How to reach me:
 
 <br>
-<a width="450" href="caio_hoch@outlook.com">
+<a width="450" href="mailto:caio_hoch@outlook.com" target="blank" >
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="blank" alt="Oulook" title="Outlook" />
 </a>
-<a href="https://www.linkedin.com/in/caio-hoch-b80152245">
+<a href="https://www.linkedin.com/in/caio-hoch-b80152245" target="blank" >
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn" title="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/caio_hoch/">
+<a href="https://www.instagram.com/caio_hoch/" target="blank" >
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"  alt="Instagram" title="Instagram" /></a>
 <br>
 <img align="left" alt="GIF" src="https://wms-sobre.netlify.app/img/Caio.gif" />
