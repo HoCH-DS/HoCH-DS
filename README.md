@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450" height="320"  />
 
-## I'm a Student, Developer and Designer!!
+## I'm a Programmer, Developer and Designer!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HoCH-DS&color=blue" alt="Profile views" /> </p>
 
